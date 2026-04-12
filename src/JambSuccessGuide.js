@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const APP_TITLE = "JAMB Success Guide";
+const APP_TITLE = "JAMB Learning";
 
 const CURRICULUM = [
   {

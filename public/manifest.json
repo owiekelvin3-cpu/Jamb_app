@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "JAMB Learning",
+  "name": "JAMB Learning - Study Offline",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,10 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "description": "Study JAMB subjects offline with interactive lessons and practice questions",
+  "orientation": "portrait",
+  "scope": ".",
+  "categories": ["education", "productivity"]
 }
