@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# JAMB Success Site
+
+A modern React application designed to help students prepare for JAMB examinations with comprehensive study materials and practice tools.
+
+## Features
+
+- Interactive study materials
+- Practice questions and mock exams
+- Progress tracking
+- Responsive design for all devices
+
+## Deployment
+
+This project is deployed on Vercel and automatically updates when changes are pushed to the main branch.
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
